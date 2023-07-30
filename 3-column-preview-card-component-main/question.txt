@@ -1,0 +1,1 @@
+Would love to know if there can be a shortcut to making the columns responsive without using media queries e.g by using flex-wrap: wrap, which I tried but didn't get the desired result.

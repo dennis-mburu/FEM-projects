@@ -1,0 +1,3 @@
+Really struggled a lot trying to get the left container that contains the text descriptions to scale down proportionally with the right container which contains the image while still preserving the image's aspect ratio, and with the image still fully filling its container without overflowing.
+
+I also struggled with getting the right dimensions for my margins, padding and widths, for the container with the texts, which resulted in unwanted overflows while resizing so I decided to hit the breakpoint for mobile design quite early (867px) to avoid text overflow, which I have a feeling is not best practice.
