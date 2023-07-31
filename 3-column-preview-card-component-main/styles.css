@@ -71,6 +71,14 @@ body{
     width: 45%;
     border-radius: 50px;
     font-family: 'Lexend Deca', sans-serif;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    /* transition: background-color 1s ease-in, color 1s ease-in; */
 }
 
 .sedan-btn{
@@ -95,7 +103,14 @@ body{
         margin: 4rem auto;
     }
     .card{
+        position: static;
         max-width: 32rem;
+        min-height: auto;
+    }
+    .btn{
+        position: static;
+        width: 130px;
+        margin-top: 1rem;
     }
     .sedan{
         border-bottom-left-radius: 0px;
