@@ -119,3 +119,9 @@ button{
 
     }
 }
+
+@media(max-width: 300px){
+    .price-container{
+        flex-direction: column;
+    }
+}
