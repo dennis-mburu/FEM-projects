@@ -8,3 +8,4 @@
 | 03  | [order-summary-component](https://github.com/dennis-mburu/FEM-projects/tree/main/order-summary-component-main)                             | [Live Demo](https://dennis-fem-order-summary-component.netlify.app/) 
 | 04  | [qr-code-component-main](https://github.com/dennis-mburu/FEM-projects/tree/main/qr-code-component-main)                             | [Live Demo](https://dennis-fem-qr-code-component.netlify.app/)   
 | 05  | [single-price-grid-component-master](https://github.com/dennis-mburu/FEM-projects/tree/main/single-price-grid-component-master)                             | [Live Demo](https://dennis-fem-single-price-grid.netlify.app/)  
+| 06  | [stats-preview-card-component-main](https://github.com/dennis-mburu/FEM-projects/tree/main/stats-preview-card-component-main)                             | [Live Demo](https://dennis-fem-stats-preview-card.netlify.app/)  
